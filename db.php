@@ -1,12 +1,9 @@
 <?php
 
-$host = "sqlXXX.infinityfree.com";
-
-$user = "your_database_username";
-
-$password = "your_database_password";
-
-$database = "your_database_name";
+$host = "localhost";
+$user = "root";
+$password = "";
+$database = "result_management";
 
 $conn = mysqli_connect(
 $host,

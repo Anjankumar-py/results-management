@@ -85,19 +85,21 @@ table{
 
 th,td{
     border:1px solid #ccc;
-    padding:12px;
+    padding:10px;
     text-align:center;
 }
 
 th{
     background:#007bff;
     color:white;
+    width: 120px;
 }
 
 a{
     text-decoration:none;
-    color:red;
+    color:black;
     font-weight:bold;
+    background-color: #0056b3;
 }
 
 .dashboard-btn{

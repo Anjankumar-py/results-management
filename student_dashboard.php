@@ -77,6 +77,8 @@ $percentage = $total / 5;
 </tr>
 
 </table>
+<a></a>
+<br>
 
 <a href="logout.php">Logout</a>
 

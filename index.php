@@ -10,7 +10,7 @@
 
 <div class="container">
 
-<h1>Result Management System</h1>
+<h1><hr>Result Management System<hr></h1>
 <div class="menu">
 
 <a href="student_login.php">
@@ -26,7 +26,7 @@ Admin Login
 </div>
 <!-- Footer -->
     <footer>
-        © 2025 Student Result Management System | All Rights Reserved
+        © 2026 Student Result Management System | All Rights Reserved
     </footer>
 
 
